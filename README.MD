@@ -18,9 +18,9 @@ I do NOT support any malicious use of this software. This is for educational pur
 |[Download]()|[Video]()|[Telegram](https://t.me/+QbV9TE35o5g3ZDZi)|[tencentQQ](https://t.me/+QbV9TE35o5g3ZDZi)|
 
 # 功能展示
-CraxsRat v4.19.5：全面调整优化 修正汉化.
+SpyRoid 5.1全面调整优化 修正汉化.
 ![20230511095754](https://raw.githubusercontent.com/shasjmasd/SpyRoid-5.1/main/photo_2023-06-21_22-34-15%20copy.jpg)
-CraxsRat v3：
+SpyRoid 5.1：
 ![218290778](https://raw.githubusercontent.com/shasjmasd/SpyRoid-5.1/main/photo_2023-05-20_09-58-05%20copy.jpg)
 
 
